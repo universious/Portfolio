@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /see-all/
+Sitemap: https://yourdomain.com/sitemap.xml
